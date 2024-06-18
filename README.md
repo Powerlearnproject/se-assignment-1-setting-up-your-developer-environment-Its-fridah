@@ -74,10 +74,9 @@ Since the project requires Python, I will downloading and installing Windows 11 
 
 Next, for the code editor, Visual Studio Code is a great free and open source option. It works well with Python and has nice Git integration. Let's grab it from their site.
 
-For version control, we'll set up Git to manage your code versions locally. Then create a GitHub account to host my repositories remotely. Once Git is ready, initialize a new repository for my project and make an initial commit.
+For   version control, we'll set up Git to manage your code versions locally. Then create a GitHub account to host my repositories remotely. Once Git is ready, initialize a new repository for my project and make an initial commit.
 
-Now for the core language - let's download Python from python.org. Be sure to check the box to add it to my system PATH during installation.
-
+Now for the core language - let's download Python from python.org. Add it to my system PATH during installation.
 We should also install pip to manage additional packages.
 
 For the database, MySQL is a solid option. Let's download and install it from the provided URL.
